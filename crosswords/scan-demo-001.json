@@ -7,10 +7,10 @@
   "words": [
     {
       "direction": "ACROSS",
-      "row": 1, "col": 0,
+      "row": 1, "col": 1,
       "answer": "КРОТ",
       "clue": "Подземный житель",
-      "clueRow": 0, "clueCol": 0,
+      "clueRow": 1, "clueCol": 0,
       "arrow": "RIGHT"
     },
     {
