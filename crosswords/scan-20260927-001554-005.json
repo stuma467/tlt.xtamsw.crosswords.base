@@ -1,0 +1,127 @@
+{
+  "id": "scan-20260927-001554-005",
+  "title": "Сканворд №6",
+  "type": "SCANWORD",
+  "width": 11,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 3,
+      "answer": "ПИХТА",
+      "clue": "Родственница ели",
+      "clueRow": 5,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 6,
+      "answer": "БОЛОТО",
+      "clue": "Топкое место",
+      "clueRow": 0,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 6,
+      "answer": "ЛИСА",
+      "clue": "Рыжая плутовка",
+      "clueRow": 3,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 8,
+      "answer": "ЛЕС",
+      "clue": "Много деревьев",
+      "clueRow": 0,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 3,
+      "answer": "СУП",
+      "clue": "Первое блюдо",
+      "clueRow": 2,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 3,
+      "answer": "ГРИБ",
+      "clue": "Лесная находка",
+      "clueRow": 1,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 4,
+      "answer": "ИНЕЙ",
+      "clue": "Морозный узор",
+      "clueRow": 4,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 7,
+      "col": 2,
+      "answer": "КЛЕН",
+      "clue": "Лист-звезда",
+      "clueRow": 7,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 8,
+      "answer": "ЛОСЬ",
+      "clue": "Сохатый",
+      "clueRow": 1,
+      "clueCol": 7,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 2,
+      "answer": "КРОТ",
+      "clue": "Землекоп",
+      "clueRow": 6,
+      "clueCol": 2,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 1,
+      "answer": "НОЖ",
+      "clue": "Режет хлеб",
+      "clueRow": 9,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    }
+  ]
+}

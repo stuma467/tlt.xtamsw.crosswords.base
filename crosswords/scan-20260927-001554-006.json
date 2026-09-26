@@ -1,0 +1,159 @@
+{
+  "id": "scan-20260927-001554-006",
+  "title": "Сканворд №7",
+  "type": "SCANWORD",
+  "width": 12,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 3,
+      "answer": "ВЕТЕР",
+      "clue": "Гуляет на воле",
+      "clueRow": 6,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 4,
+      "answer": "КОФЕ",
+      "clue": "Бодрящий напиток",
+      "clueRow": 2,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 6,
+      "answer": "ЛЕТО",
+      "clue": "Жаркая пора",
+      "clueRow": 4,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 4,
+      "answer": "КЕДР",
+      "clue": "Дерево с шишками",
+      "clueRow": 3,
+      "clueCol": 2,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 5,
+      "answer": "МОРЕ",
+      "clue": "Солёная гладь",
+      "clueRow": 8,
+      "clueCol": 3,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 7,
+      "answer": "СЫР",
+      "clue": "С дырками",
+      "clueRow": 0,
+      "clueCol": 7,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 8,
+      "answer": "ЗЕБРА",
+      "clue": "Полосатый конь",
+      "clueRow": 6,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 6,
+      "answer": "ИВА",
+      "clue": "Плакучая над рекой",
+      "clueRow": 11,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 7,
+      "answer": "СНЕГ",
+      "clue": "Белый пух",
+      "clueRow": 1,
+      "clueCol": 6,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 8,
+      "answer": "РЫСЬ",
+      "clue": "Кисточки на ушах",
+      "clueRow": 10,
+      "clueCol": 6,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 10,
+      "answer": "ГРИБ",
+      "clue": "Лесная находка",
+      "clueRow": 0,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 9,
+      "col": 10,
+      "answer": "ОСА",
+      "clue": "Жалит больно",
+      "clueRow": 8,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 5,
+      "answer": "МАК",
+      "clue": "Цветок сна",
+      "clueRow": 7,
+      "clueCol": 5,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 1,
+      "answer": "ЛОЖКА",
+      "clue": "Ест суп",
+      "clueRow": 9,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    }
+  ]
+}

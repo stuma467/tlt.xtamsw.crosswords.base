@@ -1,0 +1,158 @@
+{
+  "id": "scan-20260927-001554-008",
+  "title": "Сканворд №9",
+  "type": "SCANWORD",
+  "width": 12,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 3,
+      "answer": "ЗЕБРА",
+      "clue": "Полосатый конь",
+      "clueRow": 6,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 6,
+      "answer": "ДВЕРЬ",
+      "clue": "Вход в дом",
+      "clueRow": 2,
+      "clueCol": 6,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 6,
+      "answer": "ВОЛК",
+      "clue": "Серый разбойник",
+      "clueRow": 4,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 3,
+      "answer": "ЗУБР",
+      "clue": "Лесной бык",
+      "clueRow": 5,
+      "clueCol": 3,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 9,
+      "answer": "ОКЕАН",
+      "clue": "Великий водоём",
+      "clueRow": 2,
+      "clueCol": 9,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 1,
+      "answer": "ПИРОГ",
+      "clue": "С начинкой",
+      "clueRow": 9,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 3,
+      "answer": "ПРУД",
+      "clue": "Домашний водоём",
+      "clueRow": 3,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 9,
+      "col": 4,
+      "answer": "ОСА",
+      "clue": "Жалит больно",
+      "clueRow": 8,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 3,
+      "answer": "ФАЗАН",
+      "clue": "Яркая птица",
+      "clueRow": 11,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 7,
+      "col": 9,
+      "answer": "НОЖ",
+      "clue": "Режет хлеб",
+      "clueRow": 7,
+      "clueCol": 8,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 9,
+      "answer": "ЕЛЬ",
+      "clue": "Новогодняя гостья",
+      "clueRow": 5,
+      "clueCol": 7,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 10,
+      "answer": "ОКНО",
+      "clue": "Взгляд на улицу",
+      "clueRow": 6,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 4,
+      "answer": "СЫР",
+      "clue": "С дырками",
+      "clueRow": 0,
+      "clueCol": 4,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 3,
+      "answer": "ОСИНА",
+      "clue": "Дрожащее дерево",
+      "clueRow": 1,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    }
+  ]
+}

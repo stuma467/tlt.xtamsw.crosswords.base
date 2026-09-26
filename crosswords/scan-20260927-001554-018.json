@@ -1,0 +1,140 @@
+{
+  "id": "scan-20260927-001554-018",
+  "title": "Сканворд №19",
+  "type": "SCANWORD",
+  "width": 12,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 3,
+      "answer": "ЛИЛИЯ",
+      "clue": "Водный цветок",
+      "clueRow": 6,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 6,
+      "answer": "БОРОВИК",
+      "clue": "Царь грибов",
+      "clueRow": 0,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 6,
+      "answer": "ОРЕЛ",
+      "clue": "Гордая птица",
+      "clueRow": 2,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 6,
+      "answer": "ОСА",
+      "clue": "Жалит больно",
+      "clueRow": 4,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 3,
+      "answer": "ТЮЛЬПАН",
+      "clue": "Ранний цветок",
+      "clueRow": 3,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 3,
+      "answer": "ХЛЕБ",
+      "clue": "Всему голова",
+      "clueRow": 1,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 2,
+      "answer": "ЗАМОК",
+      "clue": "Секрет двери",
+      "clueRow": 9,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 9,
+      "answer": "ЕЛЬ",
+      "clue": "Новогодняя гостья",
+      "clueRow": 0,
+      "clueCol": 9,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 9,
+      "col": 6,
+      "answer": "КИТ",
+      "clue": "Самый большой",
+      "clueRow": 8,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 6,
+      "answer": "ТЮЛЕНЬ",
+      "clue": "Морской увалень",
+      "clueRow": 11,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 11,
+      "answer": "ЛОСЬ",
+      "clue": "Сохатый",
+      "clueRow": 7,
+      "clueCol": 11,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 9,
+      "answer": "ПОЛЕ",
+      "clue": "Пшеницы дом",
+      "clueRow": 7,
+      "clueCol": 9,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    }
+  ]
+}

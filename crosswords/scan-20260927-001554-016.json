@@ -1,0 +1,136 @@
+{
+  "id": "scan-20260927-001554-016",
+  "title": "Сканворд №17",
+  "type": "SCANWORD",
+  "width": 11,
+  "height": 11,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 3,
+      "answer": "ЧАШКА",
+      "clue": "Для чая",
+      "clueRow": 5,
+      "clueCol": 2,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 6,
+      "answer": "КОФЕ",
+      "clue": "Бодрящий напиток",
+      "clueRow": 4,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 4,
+      "answer": "ОРЕЛ",
+      "clue": "Гордая птица",
+      "clueRow": 8,
+      "clueCol": 2,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 4,
+      "answer": "ЛОЖКА",
+      "clue": "Ест суп",
+      "clueRow": 0,
+      "clueCol": 4,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 3,
+      "answer": "КЛЮЧ",
+      "clue": "Открывает замок",
+      "clueRow": 1,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 4,
+      "answer": "ПОЛЕ",
+      "clue": "Пшеницы дом",
+      "clueRow": 6,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 2,
+      "answer": "СНЕГ",
+      "clue": "Белый пух",
+      "clueRow": 10,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 7,
+      "answer": "ЛЕС",
+      "clue": "Много деревьев",
+      "clueRow": 7,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 7,
+      "answer": "СТУЛ",
+      "clue": "Сиденье",
+      "clueRow": 10,
+      "clueCol": 6,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 2,
+      "answer": "ДОЖДЬ",
+      "clue": "Небесная вода",
+      "clueRow": 3,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 10,
+      "answer": "СТОЛ",
+      "clue": "Обеденный",
+      "clueRow": 6,
+      "clueCol": 10,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 7,
+      "col": 2,
+      "answer": "СУП",
+      "clue": "Первое блюдо",
+      "clueRow": 7,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    }
+  ]
+}

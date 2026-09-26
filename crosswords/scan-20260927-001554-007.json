@@ -1,0 +1,148 @@
+{
+  "id": "scan-20260927-001554-007",
+  "title": "Сканворд №8",
+  "type": "SCANWORD",
+  "width": 12,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 3,
+      "answer": "ОСЕНЬ",
+      "clue": "Пора дождей",
+      "clueRow": 6,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 4,
+      "answer": "ЛИСИЧКА",
+      "clue": "Рыжий гриб",
+      "clueRow": 3,
+      "clueCol": 4,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 3,
+      "answer": "НАРЦИСС",
+      "clue": "Ранний цветок",
+      "clueRow": 10,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 1,
+      "answer": "СТУЛ",
+      "clue": "Сиденье",
+      "clueRow": 4,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 7,
+      "answer": "БЛИН",
+      "clue": "Круглый и масляный",
+      "clueRow": 7,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 6,
+      "answer": "ОКНО",
+      "clue": "Взгляд на улицу",
+      "clueRow": 3,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 9,
+      "answer": "ЛИСА",
+      "clue": "Рыжая плутовка",
+      "clueRow": 7,
+      "clueCol": 9,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 2,
+      "answer": "КРОТ",
+      "clue": "Землекоп",
+      "clueRow": 0,
+      "clueCol": 2,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 2,
+      "answer": "РОМАШКА",
+      "clue": "Гадальный цветок",
+      "clueRow": 2,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 8,
+      "answer": "ЛАМПА",
+      "clue": "Свет в комнате",
+      "clueRow": 0,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 8,
+      "answer": "ЛОСЬ",
+      "clue": "Сохатый",
+      "clueRow": 1,
+      "clueCol": 7,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 10,
+      "answer": "САХАР",
+      "clue": "Сладкий песок",
+      "clueRow": 0,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 5,
+      "answer": "ЧАЙ",
+      "clue": "Горячий напиток",
+      "clueRow": 0,
+      "clueCol": 5,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    }
+  ]
+}

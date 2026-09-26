@@ -1,0 +1,160 @@
+{
+  "id": "scan-20260927-001554-004",
+  "title": "Сканворд №5",
+  "type": "SCANWORD",
+  "width": 11,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 3,
+      "answer": "ЗВЕЗДА",
+      "clue": "Ночная искра",
+      "clueRow": 5,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 4,
+      "answer": "ВИЛКА",
+      "clue": "Колет котлету",
+      "clueRow": 4,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 8,
+      "answer": "ШКАФ",
+      "clue": "Хранилище одежды",
+      "clueRow": 2,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 7,
+      "col": 2,
+      "answer": "СОЛЬ",
+      "clue": "Белая в солонке",
+      "clueRow": 7,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 3,
+      "answer": "ЛАМПА",
+      "clue": "Свет в комнате",
+      "clueRow": 9,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 6,
+      "answer": "ГРОЗА",
+      "clue": "Гром и молния",
+      "clueRow": 1,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 7,
+      "answer": "ЧАЙ",
+      "clue": "Горячий напиток",
+      "clueRow": 7,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 2,
+      "answer": "ВЕТЕР",
+      "clue": "Гуляет на воле",
+      "clueRow": 3,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 4,
+      "answer": "КИТ",
+      "clue": "Самый большой",
+      "clueRow": 0,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 2,
+      "answer": "СОВА",
+      "clue": "Ночная охотница",
+      "clueRow": 0,
+      "clueCol": 2,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 8,
+      "answer": "КРОТ",
+      "clue": "Землекоп",
+      "clueRow": 4,
+      "clueCol": 7,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 10,
+      "answer": "БОРЩ",
+      "clue": "Красный суп",
+      "clueRow": 2,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 7,
+      "answer": "ЧАШКА",
+      "clue": "Для чая",
+      "clueRow": 8,
+      "clueCol": 6,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 11,
+      "answer": "ЧАСЫ",
+      "clue": "Идут",
+      "clueRow": 6,
+      "clueCol": 11,
+      "arrow": "DOWN"
+    }
+  ]
+}

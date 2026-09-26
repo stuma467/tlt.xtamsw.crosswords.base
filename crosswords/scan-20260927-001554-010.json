@@ -1,0 +1,117 @@
+{
+  "id": "scan-20260927-001554-010",
+  "title": "Сканворд №11",
+  "type": "SCANWORD",
+  "width": 11,
+  "height": 12,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 3,
+      "answer": "КУРИЦА",
+      "clue": "Несёт яйца",
+      "clueRow": 6,
+      "clueCol": 2,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 5,
+      "answer": "МОРЕ",
+      "clue": "Солёная гладь",
+      "clueRow": 3,
+      "clueCol": 5,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 8,
+      "answer": "ЗАМОК",
+      "clue": "Секрет двери",
+      "clueRow": 4,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 3,
+      "answer": "ВИЛКА",
+      "clue": "Колет котлету",
+      "clueRow": 2,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 2,
+      "answer": "ИВА",
+      "clue": "Плакучая над рекой",
+      "clueRow": 3,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 7,
+      "answer": "ДОЖДЬ",
+      "clue": "Небесная вода",
+      "clueRow": 8,
+      "clueCol": 5,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 10,
+      "answer": "ЛАНДЫШ",
+      "clue": "Лесной цветок",
+      "clueRow": 4,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 5,
+      "answer": "МАК",
+      "clue": "Цветок сна",
+      "clueRow": 4,
+      "clueCol": 4,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 7,
+      "answer": "ВОЛК",
+      "clue": "Серый разбойник",
+      "clueRow": 0,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 7,
+      "answer": "ОКНО",
+      "clue": "Взгляд на улицу",
+      "clueRow": 2,
+      "clueCol": 5,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    }
+  ]
+}

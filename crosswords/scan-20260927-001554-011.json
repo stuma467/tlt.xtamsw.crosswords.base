@@ -1,0 +1,136 @@
+{
+  "id": "scan-20260927-001554-011",
+  "title": "Сканворд №12",
+  "type": "SCANWORD",
+  "width": 10,
+  "height": 11,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 2,
+      "answer": "ЗЕБРА",
+      "clue": "Полосатый конь",
+      "clueRow": 5,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 6,
+      "answer": "ЧАСЫ",
+      "clue": "Идут",
+      "clueRow": 3,
+      "clueCol": 6,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 3,
+      "answer": "ВЕТЕР",
+      "clue": "Гуляет на воле",
+      "clueRow": 1,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 6,
+      "answer": "СЫР",
+      "clue": "С дырками",
+      "clueRow": 6,
+      "clueCol": 5,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 6,
+      "answer": "ЧАШКА",
+      "clue": "Для чая",
+      "clueRow": 4,
+      "clueCol": 5,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 7,
+      "answer": "РЕКА",
+      "clue": "Голубая лента",
+      "clueRow": 0,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 2,
+      "answer": "КЕДР",
+      "clue": "Дерево с шишками",
+      "clueRow": 3,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 6,
+      "answer": "КРОТ",
+      "clue": "Землекоп",
+      "clueRow": 1,
+      "clueCol": 5,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 8,
+      "answer": "РЫСЬ",
+      "clue": "Кисточки на ушах",
+      "clueRow": 5,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 4,
+      "answer": "ДОЖДЬ",
+      "clue": "Небесная вода",
+      "clueRow": 9,
+      "clueCol": 2,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 8,
+      "answer": "СУП",
+      "clue": "Первое блюдо",
+      "clueRow": 8,
+      "clueCol": 6,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 10,
+      "answer": "МАК",
+      "clue": "Цветок сна",
+      "clueRow": 2,
+      "clueCol": 10,
+      "arrow": "DOWN"
+    }
+  ]
+}
