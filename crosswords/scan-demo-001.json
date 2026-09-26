@@ -15,7 +15,7 @@
     },
     {
       "direction": "DOWN",
-      "row": 1, "col": 4,
+      "row": 1, "col": 3,
       "answer": "ОСА",
       "clue": "Полосатая летунья",
       "clueRow": 0, "clueCol": 3,
