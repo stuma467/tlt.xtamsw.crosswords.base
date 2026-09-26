@@ -1,0 +1,14 @@
+{
+  "id": "nature-001",
+  "title": "Природа и дом",
+  "width": 5,
+  "height": 5,
+  "words": [
+    { "number": 1, "direction": "ACROSS", "row": 0, "col": 0, "answer": "БАК",   "clue": "Большая ёмкость для жидкости" },
+    { "number": 2, "direction": "DOWN",   "row": 0, "col": 2, "answer": "КОМОД", "clue": "Мебель для хранения белья" },
+    { "number": 3, "direction": "ACROSS", "row": 1, "col": 2, "answer": "ОКО",   "clue": "Устаревшее название глаза" },
+    { "number": 4, "direction": "DOWN",   "row": 1, "col": 4, "answer": "ОСА",   "clue": "Полосатая родственница пчелы" },
+    { "number": 5, "direction": "ACROSS", "row": 2, "col": 0, "answer": "ДОМ",   "clue": "Жилище" },
+    { "number": 5, "direction": "DOWN",   "row": 2, "col": 0, "answer": "ДУБ",   "clue": "Могучее дерево с жёлудями" }
+  ]
+}
