@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "crosswords": [
     { "id": "scan-20260927-005950-000", "file": "crosswords/scan-20260927-005950-000.json" },
     { "id": "scan-20260927-005950-001", "file": "crosswords/scan-20260927-005950-001.json" },
