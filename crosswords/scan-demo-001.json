@@ -7,7 +7,7 @@
   "words": [
     {
       "direction": "ACROSS",
-      "row": 1, "col": 1,
+      "row": 1, "col": 0,
       "answer": "КРОТ",
       "clue": "Подземный житель",
       "clueRow": 0, "clueCol": 0,
