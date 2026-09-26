@@ -1,0 +1,25 @@
+{
+  "id": "scan-demo-001",
+  "title": "Сканворд-демо",
+  "type": "SCANWORD",
+  "width": 6,
+  "height": 4,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 1, "col": 2,
+      "answer": "КРОТ",
+      "clue": "Подземный житель",
+      "clueRow": 1, "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1, "col": 4,
+      "answer": "ОСА",
+      "clue": "Полосатая летунья",
+      "clueRow": 0, "clueCol": 4,
+      "arrow": "DOWN"
+    }
+  ]
+}
