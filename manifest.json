@@ -1,6 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "crosswords": [
-    { "id": "nature-001", "file": "crosswords/nature-001.json" }
+    { "id": "nature-001",    "file": "crosswords/nature-001.json" },
+    { "id": "scan-demo-001", "file": "crosswords/scan-demo-001.json" }
   ]
 }
