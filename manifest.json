@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "crosswords": [
     { "id": "scan-demo-001", "file": "crosswords/scan-demo-001.json" }
   ]
