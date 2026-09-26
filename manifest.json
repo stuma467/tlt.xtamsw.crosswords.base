@@ -1,7 +1,27 @@
 {
-  "version": 6,
+  "version": 7,
   "crosswords": [
     { "id": "scan-demo-001", "file": "crosswords/scan-demo-001.json" },
-    { "id": "scan-demo-002", "file": "crosswords/scan-demo-002.json" }
+    { "id": "scan-demo-002", "file": "crosswords/scan-demo-002.json" },
+    { "id": "scan-20260927-001554-000", "file": "crosswords/scan-20260927-001554-000.json" },
+    { "id": "scan-20260927-001554-001", "file": "crosswords/scan-20260927-001554-001.json" },
+    { "id": "scan-20260927-001554-002", "file": "crosswords/scan-20260927-001554-002.json" },
+    { "id": "scan-20260927-001554-003", "file": "crosswords/scan-20260927-001554-003.json" },
+    { "id": "scan-20260927-001554-004", "file": "crosswords/scan-20260927-001554-004.json" },
+    { "id": "scan-20260927-001554-005", "file": "crosswords/scan-20260927-001554-005.json" },
+    { "id": "scan-20260927-001554-006", "file": "crosswords/scan-20260927-001554-006.json" },
+    { "id": "scan-20260927-001554-007", "file": "crosswords/scan-20260927-001554-007.json" },
+    { "id": "scan-20260927-001554-008", "file": "crosswords/scan-20260927-001554-008.json" },
+    { "id": "scan-20260927-001554-009", "file": "crosswords/scan-20260927-001554-009.json" },
+    { "id": "scan-20260927-001554-010", "file": "crosswords/scan-20260927-001554-010.json" },
+    { "id": "scan-20260927-001554-011", "file": "crosswords/scan-20260927-001554-011.json" },
+    { "id": "scan-20260927-001554-012", "file": "crosswords/scan-20260927-001554-012.json" },
+    { "id": "scan-20260927-001554-013", "file": "crosswords/scan-20260927-001554-013.json" },
+    { "id": "scan-20260927-001554-014", "file": "crosswords/scan-20260927-001554-014.json" },
+    { "id": "scan-20260927-001554-015", "file": "crosswords/scan-20260927-001554-015.json" },
+    { "id": "scan-20260927-001554-016", "file": "crosswords/scan-20260927-001554-016.json" },
+    { "id": "scan-20260927-001554-017", "file": "crosswords/scan-20260927-001554-017.json" },
+    { "id": "scan-20260927-001554-018", "file": "crosswords/scan-20260927-001554-018.json" },
+    { "id": "scan-20260927-001554-019", "file": "crosswords/scan-20260927-001554-019.json" }
   ]
 }
