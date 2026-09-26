@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "crosswords": [
+    { "id": "nature-001", "file": "crosswords/nature-001.json" }
+  ]
+}
