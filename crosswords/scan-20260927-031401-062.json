@@ -1,0 +1,583 @@
+{
+  "id": "scan-20260927-031401-062",
+  "title": "Сканворд №63",
+  "type": "SCANWORD",
+  "width": 25,
+  "height": 25,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 12,
+      "col": 10,
+      "answer": "ЦЕДРА",
+      "clue": "Кожа лимона",
+      "clueRow": 12,
+      "clueCol": 8,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 14,
+      "answer": "ДУБИНА",
+      "clue": "Палка",
+      "clueRow": 6,
+      "clueCol": 14,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 11,
+      "answer": "СВЕЖЕВАНИЕ",
+      "clue": "Разделка туши",
+      "clueRow": 9,
+      "clueCol": 11,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 18,
+      "col": 7,
+      "answer": "ПОНЧИК",
+      "clue": "Сладость",
+      "clueRow": 18,
+      "clueCol": 6,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 14,
+      "answer": "НЕВЕЖА",
+      "clue": "Грубиян",
+      "clueRow": 11,
+      "clueCol": 13,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 17,
+      "answer": "КОНФЕТТИ",
+      "clue": "Разноцветные кружочки",
+      "clueRow": 6,
+      "clueCol": 17,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 8,
+      "answer": "НОВОСЕЛ",
+      "clue": "Новый житель",
+      "clueRow": 16,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 23,
+      "col": 7,
+      "answer": "ЭЛЬФ",
+      "clue": "Гном леса",
+      "clueRow": 23,
+      "clueCol": 6,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 21,
+      "col": 6,
+      "answer": "РУСАЛКА",
+      "clue": "Ундина",
+      "clueRow": 21,
+      "clueCol": 5,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 20,
+      "col": 12,
+      "answer": "ПАЦАН",
+      "clue": "Мальчик",
+      "clueRow": 19,
+      "clueCol": 12,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 14,
+      "col": 8,
+      "answer": "ГАЗЕТЧИК",
+      "clue": "Журналист",
+      "clueRow": 14,
+      "clueCol": 7,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 13,
+      "answer": "СУЧКОРУБ",
+      "clue": "Лесоруб",
+      "clueRow": 8,
+      "clueCol": 12,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 14,
+      "col": 14,
+      "answer": "ИЗБИРАТЕЛЬ",
+      "clue": "Голосует",
+      "clueRow": 13,
+      "clueCol": 14,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 20,
+      "col": 12,
+      "answer": "ПОТЫЛИЦА",
+      "clue": "Затылок",
+      "clueRow": 20,
+      "clueCol": 11,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 19,
+      "answer": "КАМЗОЛ",
+      "clue": "Старинная одежда",
+      "clueRow": 9,
+      "clueCol": 19,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 19,
+      "answer": "ПЯТАЧОК",
+      "clue": "Нос свиньи",
+      "clueRow": 16,
+      "clueCol": 19,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 3,
+      "answer": "КОНФОРМИСТ",
+      "clue": "Приспособленец",
+      "clueRow": 10,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 5,
+      "answer": "КУСТАРНИК",
+      "clue": "Заросли кустов",
+      "clueRow": 3,
+      "clueCol": 5,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 19,
+      "answer": "ТРИЕР",
+      "clue": "Сортировщик семян",
+      "clueRow": 19,
+      "clueCol": 17,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 13,
+      "col": 21,
+      "answer": "ПРОМЕТИЙ",
+      "clue": "Радиоактивный изотоп",
+      "clueRow": 12,
+      "clueCol": 21,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 23,
+      "answer": "ОПРОС",
+      "clue": "Анкета",
+      "clueRow": 16,
+      "clueCol": 23,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 5,
+      "answer": "СЕНСАЦИЯ",
+      "clue": "Шок-новость",
+      "clueRow": 6,
+      "clueCol": 3,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 2,
+      "answer": "СТРАННОСТЬ",
+      "clue": "Бзик",
+      "clueRow": 8,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 9,
+      "answer": "ВЫДРА",
+      "clue": "Животное",
+      "clueRow": 1,
+      "clueCol": 9,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 22,
+      "col": 18,
+      "answer": "ЛОПУХ",
+      "clue": "Сорное растение",
+      "clueRow": 22,
+      "clueCol": 16,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 18,
+      "col": 16,
+      "answer": "ИЮЛЬ",
+      "clue": "Месяц",
+      "clueRow": 17,
+      "clueCol": 16,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 12,
+      "answer": "ФИКЦИЯ",
+      "clue": "Блеф",
+      "clueRow": 0,
+      "clueCol": 12,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 11,
+      "answer": "ВИНОГРАДИНА",
+      "clue": "Одна ягода",
+      "clueRow": 2,
+      "clueCol": 10,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 3,
+      "answer": "КНИГОЛЮБ",
+      "clue": "Любит читать",
+      "clueRow": 9,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 19,
+      "answer": "МИСТЕР",
+      "clue": "Обращение к мужчине",
+      "clueRow": 0,
+      "clueCol": 19,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 2,
+      "answer": "МАРИНИСТ",
+      "clue": "Художник моря",
+      "clueRow": 1,
+      "clueCol": 2,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 16,
+      "answer": "КОНТУР",
+      "clue": "Очертание",
+      "clueRow": 4,
+      "clueCol": 15,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 1,
+      "answer": "ПОБОИ",
+      "clue": "Драка",
+      "clueRow": 17,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 7,
+      "answer": "ЖБАН",
+      "clue": "Сосуд с крышкой",
+      "clueRow": 2,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 1,
+      "answer": "ПОЛУДА",
+      "clue": "Слой олова на меди",
+      "clueRow": 16,
+      "clueCol": 1,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 17,
+      "answer": "ЗАМОК",
+      "clue": "Запор для двери",
+      "clueRow": 0,
+      "clueCol": 17,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 5,
+      "answer": "ПРИЛОВ",
+      "clue": "Случайная рыба в сети",
+      "clueRow": 14,
+      "clueCol": 5,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 2,
+      "answer": "МЯЧ",
+      "clue": "Игрушка",
+      "clueRow": 2,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 14,
+      "answer": "ВОЗ",
+      "clue": "Телега с грузом",
+      "clueRow": 0,
+      "clueCol": 14,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 16,
+      "col": 13,
+      "answer": "ОБИХОД",
+      "clue": "Уклад",
+      "clueRow": 16,
+      "clueCol": 12,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 19,
+      "answer": "ПРЕДОК",
+      "clue": "Прадед или дед",
+      "clueRow": 17,
+      "clueCol": 17,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 19,
+      "answer": "КЛЕЦКА",
+      "clue": "Кушанье",
+      "clueRow": 10,
+      "clueCol": 18,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 24,
+      "answer": "КИРАСИР",
+      "clue": "Кавалерист",
+      "clueRow": 6,
+      "clueCol": 24,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 22,
+      "col": 1,
+      "answer": "АЛИБИ",
+      "clue": "Оправдание",
+      "clueRow": 22,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 22,
+      "answer": "СЛАНЕЦ",
+      "clue": "Порода",
+      "clueRow": 4,
+      "clueCol": 22,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 21,
+      "col": 3,
+      "answer": "ШИЛО",
+      "clue": "Инструмент",
+      "clueRow": 20,
+      "clueCol": 3,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 13,
+      "col": 2,
+      "answer": "ЮГ",
+      "clue": "Сторона",
+      "clueRow": 13,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 24,
+      "col": 11,
+      "answer": "ХНА",
+      "clue": "Краска для волос",
+      "clueRow": 24,
+      "clueCol": 9,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 24,
+      "col": 2,
+      "answer": "РО",
+      "clue": "Греческая буква",
+      "clueRow": 24,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 4,
+      "answer": "РОМ",
+      "clue": "Пиратский напиток",
+      "clueRow": 19,
+      "clueCol": 2,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 12,
+      "answer": "ИТОГ",
+      "clue": "Результат",
+      "clueRow": 5,
+      "clueCol": 11,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 16,
+      "col": 5,
+      "answer": "РИС",
+      "clue": "Крупа",
+      "clueRow": 16,
+      "clueCol": 4,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 21,
+      "answer": "ЮЛА",
+      "clue": "Игрушка",
+      "clueRow": 6,
+      "clueCol": 20,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 22,
+      "col": 21,
+      "answer": "УЖ",
+      "clue": "Неядовитая змея",
+      "clueRow": 21,
+      "clueCol": 21,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 1,
+      "answer": "ЧИН",
+      "clue": "Ранг",
+      "clueRow": 11,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    }
+  ]
+}

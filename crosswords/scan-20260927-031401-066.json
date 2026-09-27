@@ -1,0 +1,583 @@
+{
+  "id": "scan-20260927-031401-066",
+  "title": "Сканворд №67",
+  "type": "SCANWORD",
+  "width": 25,
+  "height": 25,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 12,
+      "col": 9,
+      "answer": "ПРУТОК",
+      "clue": "Арматура",
+      "clueRow": 12,
+      "clueCol": 8,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 11,
+      "col": 10,
+      "answer": "ПРОСЧЕТ",
+      "clue": "Ошибка в плане",
+      "clueRow": 10,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 15,
+      "col": 6,
+      "answer": "ШАШЕЧНИЦА",
+      "clue": "Бабочка нимфалида",
+      "clueRow": 15,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 12,
+      "answer": "УРОЖАЙНОСТЬ",
+      "clue": "Продуктивность полей",
+      "clueRow": 2,
+      "clueCol": 12,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 8,
+      "answer": "ШЕЯ",
+      "clue": "Затылок",
+      "clueRow": 14,
+      "clueCol": 8,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 12,
+      "answer": "НЕЙЗИЛЬБЕР",
+      "clue": "Сплав",
+      "clueRow": 9,
+      "clueCol": 11,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 8,
+      "answer": "ПОДКРЫЛОК",
+      "clue": "Щиток над колесом авто",
+      "clueRow": 4,
+      "clueCol": 6,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 13,
+      "col": 6,
+      "answer": "ПАША",
+      "clue": "Титул",
+      "clueRow": 12,
+      "clueCol": 6,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 20,
+      "answer": "СЕЛЬКУП",
+      "clue": "Остяк",
+      "clueRow": 7,
+      "clueCol": 20,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 7,
+      "col": 4,
+      "answer": "РИЗОСФЕРА",
+      "clue": "Зона почвы у корня",
+      "clueRow": 7,
+      "clueCol": 2,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 4,
+      "answer": "ГЕКТАР",
+      "clue": "Площадь",
+      "clueRow": 1,
+      "clueCol": 4,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 12,
+      "col": 14,
+      "answer": "КУРАНТЫ",
+      "clue": "Башенные часы",
+      "clueRow": 11,
+      "clueCol": 14,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 1,
+      "answer": "ПРОГРЕССИЯ",
+      "clue": "Ряд чисел",
+      "clueRow": 2,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 7,
+      "answer": "КОСЬБА",
+      "clue": "Скашивание травы",
+      "clueRow": 5,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 14,
+      "col": 14,
+      "answer": "РОЖОК",
+      "clue": "Сигнальный рог",
+      "clueRow": 14,
+      "clueCol": 12,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 2,
+      "answer": "ФИТИН",
+      "clue": "Удобрение или фосфат",
+      "clueRow": 5,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 13,
+      "col": 17,
+      "answer": "ФОТОПОРТРЕТ",
+      "clue": "Кадр лица",
+      "clueRow": 12,
+      "clueCol": 17,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 3,
+      "answer": "ПРОМАХ",
+      "clue": "Выстрел мимо",
+      "clueRow": 11,
+      "clueCol": 1,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 21,
+      "col": 14,
+      "answer": "ЗАКРОМ",
+      "clue": "Место для зерна",
+      "clueRow": 21,
+      "clueCol": 12,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 15,
+      "answer": "КОРНЕПЛОД",
+      "clue": "Овощ",
+      "clueRow": 19,
+      "clueCol": 14,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 12,
+      "col": 22,
+      "answer": "БАДМИНТОН",
+      "clue": "Игра с воланом",
+      "clueRow": 11,
+      "clueCol": 22,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 16,
+      "answer": "ТЮБИК",
+      "clue": "Патрон для пасты",
+      "clueRow": 5,
+      "clueCol": 16,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 23,
+      "col": 10,
+      "answer": "ПРОПЛАСТОК",
+      "clue": "Линза в породе",
+      "clueRow": 23,
+      "clueCol": 8,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 9,
+      "col": 4,
+      "answer": "ОБРУЧ",
+      "clue": "Кольцо",
+      "clueRow": 8,
+      "clueCol": 4,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 15,
+      "answer": "КУРОК",
+      "clue": "Часть оружия",
+      "clueRow": 0,
+      "clueCol": 15,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 1,
+      "answer": "ПУК",
+      "clue": "Связка соломы",
+      "clueRow": 1,
+      "clueCol": 1,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 16,
+      "col": 2,
+      "answer": "ЕГОЗА",
+      "clue": "Непоседа",
+      "clueRow": 16,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 14,
+      "answer": "УКУС",
+      "clue": "Рана от зубов",
+      "clueRow": 1,
+      "clueCol": 12,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 2,
+      "answer": "ЧЕТНОСТЬ",
+      "clue": "Параметр деления на 2",
+      "clueRow": 14,
+      "clueCol": 2,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 2,
+      "answer": "ОБМАНЩИК",
+      "clue": "Лжец",
+      "clueRow": 19,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 16,
+      "answer": "СПЕХ",
+      "clue": "Спешка",
+      "clueRow": 17,
+      "clueCol": 15,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 16,
+      "answer": "ТРЮК",
+      "clue": "Фокус",
+      "clueRow": 6,
+      "clueCol": 15,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 19,
+      "col": 4,
+      "answer": "МЕНУЭТ",
+      "clue": "Старинный танец",
+      "clueRow": 18,
+      "clueCol": 4,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 19,
+      "answer": "СЛИТОК",
+      "clue": "Брусок золота",
+      "clueRow": 0,
+      "clueCol": 19,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 22,
+      "col": 4,
+      "answer": "УШИВКА",
+      "clue": "Ушивка",
+      "clueRow": 22,
+      "clueCol": 3,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 19,
+      "answer": "ИУДА",
+      "clue": "Предатель",
+      "clueRow": 3,
+      "clueCol": 18,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 2,
+      "answer": "БЛОК",
+      "clue": "Кубик",
+      "clueRow": 9,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 22,
+      "answer": "КАРАТЕ",
+      "clue": "Борьба",
+      "clueRow": 1,
+      "clueCol": 22,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 18,
+      "answer": "ЛЬЕ",
+      "clue": "Старинная монета",
+      "clueRow": 7,
+      "clueCol": 18,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 24,
+      "col": 1,
+      "answer": "НАСТОЙКА",
+      "clue": "Напиток",
+      "clueRow": 24,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 19,
+      "col": 11,
+      "answer": "ПОЗОР",
+      "clue": "Стыд",
+      "clueRow": 18,
+      "clueCol": 11,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 16,
+      "col": 21,
+      "answer": "ДИТЯ",
+      "clue": "Ребенок",
+      "clueRow": 16,
+      "clueCol": 20,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 12,
+      "col": 24,
+      "answer": "ПЛЕМЯ",
+      "clue": "Народ",
+      "clueRow": 11,
+      "clueCol": 24,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 10,
+      "answer": "МЕЛЬ",
+      "clue": "Отмель",
+      "clueRow": 5,
+      "clueCol": 10,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 22,
+      "answer": "РАК",
+      "clue": "Ракообразное",
+      "clueRow": 4,
+      "clueCol": 20,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 24,
+      "answer": "СОКОЛЬНИК",
+      "clue": "Егерь царя",
+      "clueRow": 1,
+      "clueCol": 24,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 20,
+      "col": 10,
+      "answer": "ЧОХА",
+      "clue": "Черкеска",
+      "clueRow": 20,
+      "clueCol": 9,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 9,
+      "answer": "ИГО",
+      "clue": "Гнет",
+      "clueRow": 1,
+      "clueCol": 9,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 6,
+      "answer": "РЕЗ",
+      "clue": "Линия пропила",
+      "clueRow": 0,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 21,
+      "col": 6,
+      "answer": "ФИ",
+      "clue": "Греческая буква",
+      "clueRow": 20,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 22,
+      "answer": "ШИК",
+      "clue": "Блеск",
+      "clueRow": 10,
+      "clueCol": 21,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 14,
+      "answer": "ДЮЙМ",
+      "clue": "Мера длины",
+      "clueRow": 6,
+      "clueCol": 14,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 13,
+      "col": 2,
+      "answer": "МЯЧ",
+      "clue": "Игрушка",
+      "clueRow": 13,
+      "clueCol": 1,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 10,
+      "answer": "ТЕКСТ",
+      "clue": "Слова",
+      "clueRow": 17,
+      "clueCol": 9,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 17,
+      "answer": "СЫЧ",
+      "clue": "Малая сова",
+      "clueRow": 0,
+      "clueCol": 17,
+      "arrow": "DOWN"
+    }
+  ]
+}

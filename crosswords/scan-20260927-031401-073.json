@@ -1,0 +1,582 @@
+{
+  "id": "scan-20260927-031401-073",
+  "title": "Сканворд №74",
+  "type": "SCANWORD",
+  "width": 25,
+  "height": 25,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 12,
+      "col": 9,
+      "answer": "МАХАОН",
+      "clue": "Бабочка",
+      "clueRow": 12,
+      "clueCol": 8,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 11,
+      "col": 9,
+      "answer": "ЭМИССАР",
+      "clue": "Агент миссии",
+      "clueRow": 10,
+      "clueCol": 9,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 12,
+      "answer": "ЮГОСЛАВКА",
+      "clue": "Славянка Балкан ретро",
+      "clueRow": 6,
+      "clueCol": 12,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 4,
+      "answer": "ФОСФОРИТ",
+      "clue": "Руда апатит",
+      "clueRow": 17,
+      "clueCol": 2,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 14,
+      "col": 5,
+      "answer": "ШАРОШКА",
+      "clue": "Фреза бурения шахт",
+      "clueRow": 13,
+      "clueCol": 5,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 14,
+      "answer": "ШТАБЕЛЕВАНИЕ",
+      "clue": "Складывание дров",
+      "clueRow": 2,
+      "clueCol": 14,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 9,
+      "col": 6,
+      "answer": "ГРУЗИЛО",
+      "clue": "Тяжелый предмет",
+      "clueRow": 9,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 8,
+      "answer": "ОТЫГРЫШ",
+      "clue": "Отыгрыш",
+      "clueRow": 16,
+      "clueCol": 8,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 7,
+      "answer": "ТРИБУНА",
+      "clue": "Кафедра спикера",
+      "clueRow": 7,
+      "clueCol": 7,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 13,
+      "answer": "ТАБАКОВОД",
+      "clue": "Фермер плантаций",
+      "clueRow": 5,
+      "clueCol": 11,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 18,
+      "answer": "ВИДЕОКАССЕТА",
+      "clue": "Кассета с пленкой",
+      "clueRow": 0,
+      "clueCol": 18,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 20,
+      "answer": "УКЛОН",
+      "clue": "Уклон",
+      "clueRow": 1,
+      "clueCol": 20,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 22,
+      "col": 7,
+      "answer": "СЫРОВАРЕНИЕ",
+      "clue": "Технология Чеддера",
+      "clueRow": 22,
+      "clueCol": 5,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 16,
+      "answer": "ГРАЧ",
+      "clue": "Весенний гость",
+      "clueRow": 2,
+      "clueCol": 16,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 16,
+      "col": 17,
+      "answer": "ЯЗЫКОВЕД",
+      "clue": "Лингвист",
+      "clueRow": 15,
+      "clueCol": 17,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 15,
+      "answer": "РАЗВРАТ",
+      "clue": "Порок",
+      "clueRow": 17,
+      "clueCol": 14,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 18,
+      "answer": "СТУДИЯ",
+      "clue": "Ателье художника",
+      "clueRow": 8,
+      "clueCol": 16,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 15,
+      "answer": "ТОРГАШ",
+      "clue": "Лавочник",
+      "clueRow": 14,
+      "clueCol": 15,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 22,
+      "answer": "ФЛИГЕЛЬ",
+      "clue": "Пристройка к усадьбе",
+      "clueRow": 5,
+      "clueCol": 22,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 18,
+      "col": 12,
+      "answer": "ПЛУГ",
+      "clue": "Инструмент",
+      "clueRow": 18,
+      "clueCol": 11,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 13,
+      "col": 19,
+      "answer": "БОБЕР",
+      "clue": "Пушной зверь",
+      "clueRow": 12,
+      "clueCol": 19,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 21,
+      "answer": "ПОТЕПЛЕНИЕ",
+      "clue": "Спад морозов",
+      "clueRow": 14,
+      "clueCol": 21,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 18,
+      "col": 12,
+      "answer": "ПОЛКА",
+      "clue": "Для книг",
+      "clueRow": 17,
+      "clueCol": 12,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 23,
+      "col": 19,
+      "answer": "ПРИЕЗД",
+      "clue": "Визит",
+      "clueRow": 23,
+      "clueCol": 18,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 19,
+      "answer": "ЛЯПСУС",
+      "clue": "Ошибка",
+      "clueRow": 19,
+      "clueCol": 18,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 21,
+      "col": 20,
+      "answer": "ВЕЛЮР",
+      "clue": "Мягкая ткань",
+      "clueRow": 21,
+      "clueCol": 18,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 4,
+      "col": 9,
+      "answer": "КАРТУЗ",
+      "clue": "Головной убор",
+      "clueRow": 3,
+      "clueCol": 9,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 5,
+      "answer": "ЕПИСКОП",
+      "clue": "Священник",
+      "clueRow": 4,
+      "clueCol": 4,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 3,
+      "answer": "КЕЛЬНЕР",
+      "clue": "Официант",
+      "clueRow": 6,
+      "clueCol": 2,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 15,
+      "answer": "ДРЕВО",
+      "clue": "Дерево",
+      "clueRow": 1,
+      "clueCol": 14,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 3,
+      "answer": "ЦАДИК",
+      "clue": "Пророк хасидов",
+      "clueRow": 1,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 19,
+      "col": 10,
+      "answer": "ЧИХОТА",
+      "clue": "Спазм носа",
+      "clueRow": 18,
+      "clueCol": 10,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 16,
+      "answer": "КЛЕВ",
+      "clue": "Клев рыбы",
+      "clueRow": 10,
+      "clueCol": 15,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 16,
+      "answer": "КИПА",
+      "clue": "Пачка",
+      "clueRow": 9,
+      "clueCol": 16,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 1,
+      "answer": "ОТТОК",
+      "clue": "Отток",
+      "clueRow": 19,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 16,
+      "col": 1,
+      "answer": "ДЕПОЗИТОР",
+      "clue": "Вкладчик",
+      "clueRow": 15,
+      "clueCol": 1,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 23,
+      "col": 1,
+      "answer": "ОТСТОЙ",
+      "clue": "Отстой",
+      "clueRow": 23,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 24,
+      "col": 9,
+      "answer": "ЖАРГОН",
+      "clue": "Речь",
+      "clueRow": 24,
+      "clueCol": 8,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 1,
+      "answer": "ЛИЦО",
+      "clue": "Лик",
+      "clueRow": 2,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 1,
+      "answer": "СЛИВЩИК",
+      "clue": "Сливщик",
+      "clueRow": 0,
+      "clueCol": 1,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 21,
+      "col": 3,
+      "answer": "МОСТ",
+      "clue": "Переправа",
+      "clueRow": 20,
+      "clueCol": 3,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 14,
+      "col": 17,
+      "answer": "ИНОК",
+      "clue": "Монах",
+      "clueRow": 14,
+      "clueCol": 16,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 3,
+      "col": 5,
+      "answer": "ВЕСЛО",
+      "clue": "Гребет по воде",
+      "clueRow": 2,
+      "clueCol": 5,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 20,
+      "answer": "ШИЛО",
+      "clue": "Инструмент",
+      "clueRow": 11,
+      "clueCol": 19,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 20,
+      "answer": "КАБАК",
+      "clue": "Пивная",
+      "clueRow": 3,
+      "clueCol": 19,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 14,
+      "col": 2,
+      "answer": "УСУШКА",
+      "clue": "Потеря веса от сушки",
+      "clueRow": 14,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 16,
+      "col": 13,
+      "answer": "ИГО",
+      "clue": "Гнет",
+      "clueRow": 16,
+      "clueCol": 12,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 23,
+      "answer": "ЦИАН",
+      "clue": "Газ синильной кислоты",
+      "clueRow": 0,
+      "clueCol": 23,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 11,
+      "col": 3,
+      "answer": "ФИЕСТА",
+      "clue": "Коррида",
+      "clueRow": 10,
+      "clueCol": 3,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 20,
+      "answer": "УД",
+      "clue": "Орган",
+      "clueRow": 7,
+      "clueCol": 20,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 8,
+      "answer": "БРУС",
+      "clue": "Брусок дерева",
+      "clueRow": 0,
+      "clueCol": 8,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 1,
+      "col": 6,
+      "answer": "ЛЕБЕДЬ",
+      "clue": "Птица",
+      "clueRow": 1,
+      "clueCol": 5,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 11,
+      "col": 1,
+      "answer": "ТУФЛЯ",
+      "clue": "Обувь",
+      "clueRow": 11,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 20,
+      "col": 15,
+      "answer": "ШПОН",
+      "clue": "Фанера облицовки мебели",
+      "clueRow": 20,
+      "clueCol": 13,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 24,
+      "answer": "КОЛОС",
+      "clue": "Зерно",
+      "clueRow": 14,
+      "clueCol": 24,
+      "arrow": "DOWN"
+    }
+  ]
+}

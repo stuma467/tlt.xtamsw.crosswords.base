@@ -1,0 +1,583 @@
+{
+  "id": "scan-20260927-031401-086",
+  "title": "Сканворд №87",
+  "type": "SCANWORD",
+  "width": 25,
+  "height": 25,
+  "words": [
+    {
+      "direction": "ACROSS",
+      "row": 12,
+      "col": 9,
+      "answer": "ЮБОЧНИК",
+      "clue": "Дамский портной",
+      "clueRow": 12,
+      "clueCol": 7,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 10,
+      "answer": "РЕБЯТА",
+      "clue": "Парни",
+      "clueRow": 9,
+      "clueCol": 10,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 13,
+      "answer": "КОММЕНТАРИЙ",
+      "clue": "Пояснение",
+      "clueRow": 6,
+      "clueCol": 13,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 12,
+      "answer": "ТОРПЕДОНОСЕЦ",
+      "clue": "Самолет-штурмовик",
+      "clueRow": 8,
+      "clueCol": 10,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 15,
+      "answer": "ТАКСОФОН",
+      "clue": "Автомат уличный связи",
+      "clueRow": 9,
+      "clueCol": 15,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 15,
+      "col": 9,
+      "answer": "РАК",
+      "clue": "Ракообразное",
+      "clueRow": 15,
+      "clueCol": 7,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 20,
+      "answer": "ФЛЮОРИТ",
+      "clue": "Плавиковый шпат",
+      "clueRow": 4,
+      "clueCol": 20,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 7,
+      "col": 22,
+      "answer": "ФЕХРАЛЬ",
+      "clue": "Сплав спиралей плитки",
+      "clueRow": 6,
+      "clueCol": 22,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 10,
+      "answer": "СБОЙ",
+      "clue": "Глюк",
+      "clueRow": 17,
+      "clueCol": 9,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 6,
+      "col": 17,
+      "answer": "РАДИСТКА",
+      "clue": "Радистка Кэт",
+      "clueRow": 5,
+      "clueCol": 17,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 10,
+      "answer": "САРЛЫК",
+      "clue": "Тибетский як",
+      "clueRow": 16,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 22,
+      "col": 2,
+      "answer": "ПЕРЕЛЕСОК",
+      "clue": "Небольшой лес",
+      "clueRow": 22,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 6,
+      "answer": "ГАГАРА",
+      "clue": "Северная водоплавающая",
+      "clueRow": 19,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 21,
+      "col": 6,
+      "answer": "ХЛЕБ",
+      "clue": "Всему голова",
+      "clueRow": 20,
+      "clueCol": 6,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 17,
+      "col": 3,
+      "answer": "ПРОСЧЕТ",
+      "clue": "Ошибка в плане",
+      "clueRow": 16,
+      "clueCol": 3,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 5,
+      "answer": "КОНТОРА",
+      "clue": "Учреждение",
+      "clueRow": 10,
+      "clueCol": 4,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 8,
+      "col": 6,
+      "answer": "ССОРА",
+      "clue": "Конфликт",
+      "clueRow": 7,
+      "clueCol": 6,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 24,
+      "col": 6,
+      "answer": "БАЙДАРКА",
+      "clue": "Узкая лодка",
+      "clueRow": 24,
+      "clueCol": 4,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 21,
+      "col": 12,
+      "answer": "ЯЗЫК",
+      "clue": "Орган речи",
+      "clueRow": 20,
+      "clueCol": 12,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 12,
+      "col": 2,
+      "answer": "ТЫКВА",
+      "clue": "Гигантский рыжий овощ",
+      "clueRow": 12,
+      "clueCol": 0,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 5,
+      "col": 2,
+      "answer": "СКВАЖИСТОСТЬ",
+      "clue": "Параметр пористости",
+      "clueRow": 4,
+      "clueCol": 2,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 5,
+      "col": 1,
+      "answer": "ОСВОЕНИЕ",
+      "clue": "Освоение",
+      "clueRow": 5,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 4,
+      "answer": "ТУГОДУМ",
+      "clue": "Тормоз",
+      "clueRow": 1,
+      "clueCol": 4,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 2,
+      "col": 8,
+      "answer": "НАВЕС",
+      "clue": "Крыша",
+      "clueRow": 1,
+      "clueCol": 8,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 3,
+      "col": 7,
+      "answer": "ХАЛИФ",
+      "clue": "Правитель востока",
+      "clueRow": 3,
+      "clueCol": 5,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 16,
+      "col": 15,
+      "answer": "ОБЕЩАНИЕ",
+      "clue": "Слово",
+      "clueRow": 16,
+      "clueCol": 14,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 20,
+      "answer": "ЖНЕЦ",
+      "clue": "Косарь",
+      "clueRow": 14,
+      "clueCol": 20,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 22,
+      "answer": "СЕПТИМА",
+      "clue": "Интервал музыки",
+      "clueRow": 14,
+      "clueCol": 22,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "DOWN",
+      "row": 15,
+      "col": 17,
+      "answer": "МЕТАЛЛОФОН",
+      "clue": "Ударный инструмент",
+      "clueRow": 14,
+      "clueCol": 17,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 19,
+      "col": 16,
+      "answer": "ХЛЫЩ",
+      "clue": "Фат",
+      "clueRow": 19,
+      "clueCol": 15,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 16,
+      "answer": "АРТЕЛЬ",
+      "clue": "Группа работников",
+      "clueRow": 6,
+      "clueCol": 14,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 23,
+      "col": 15,
+      "answer": "ПЛОМБИР",
+      "clue": "Жирное мороженое",
+      "clueRow": 23,
+      "clueCol": 13,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 17,
+      "col": 3,
+      "answer": "ПОГРЕБ",
+      "clue": "Подвал",
+      "clueRow": 17,
+      "clueCol": 2,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 14,
+      "col": 5,
+      "answer": "ПУРГА",
+      "clue": "Метель",
+      "clueRow": 13,
+      "clueCol": 5,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 21,
+      "col": 15,
+      "answer": "ХВОЯ",
+      "clue": "Иглы кедра",
+      "clueRow": 21,
+      "clueCol": 14,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 20,
+      "col": 20,
+      "answer": "МАГИЯ",
+      "clue": "Чудо",
+      "clueRow": 19,
+      "clueCol": 20,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 8,
+      "col": 6,
+      "answer": "СЛЕД",
+      "clue": "Отпечаток",
+      "clueRow": 8,
+      "clueCol": 5,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 6,
+      "col": 8,
+      "answer": "СОЛЯР",
+      "clue": "Дизтопливо",
+      "clueRow": 6,
+      "clueCol": 7,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 16,
+      "answer": "РЕТОРА",
+      "clue": "Сосуд химика",
+      "clueRow": 0,
+      "clueCol": 16,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 13,
+      "answer": "СУВЕРЕННОСТЬ",
+      "clue": "Автономия",
+      "clueRow": 2,
+      "clueCol": 12,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 23,
+      "answer": "ОТЗЫВ",
+      "clue": "Отзыв",
+      "clueRow": 0,
+      "clueCol": 23,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 4,
+      "col": 14,
+      "answer": "АНОНС",
+      "clue": "Объявление о спектакле",
+      "clueRow": 4,
+      "clueCol": 12,
+      "arrow": "RIGHT",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 2,
+      "col": 1,
+      "answer": "ВЕРТЕП",
+      "clue": "Притон",
+      "clueRow": 2,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 20,
+      "col": 1,
+      "answer": "ДОСУГ",
+      "clue": "Отдых",
+      "clueRow": 20,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 21,
+      "answer": "ШОВ",
+      "clue": "Стежок",
+      "clueRow": 0,
+      "clueCol": 21,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 14,
+      "answer": "ФУГАС",
+      "clue": "Мина",
+      "clueRow": 0,
+      "clueCol": 14,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 12,
+      "col": 22,
+      "answer": "ЛЕД",
+      "clue": "Вода",
+      "clueRow": 12,
+      "clueCol": 21,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 10,
+      "col": 24,
+      "answer": "МЕДИЦИНА",
+      "clue": "Наука",
+      "clueRow": 9,
+      "clueCol": 24,
+      "arrow": "DOWN"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 20,
+      "col": 22,
+      "answer": "МАХ",
+      "clue": "Движение",
+      "clueRow": 20,
+      "clueCol": 21,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 14,
+      "col": 4,
+      "answer": "СПИРТ",
+      "clue": "Этанол",
+      "clueRow": 14,
+      "clueCol": 3,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 10,
+      "answer": "ШПИЦ",
+      "clue": "Пушистая собачка",
+      "clueRow": 0,
+      "clueCol": 10,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 10,
+      "col": 1,
+      "answer": "МИГ",
+      "clue": "Момент",
+      "clueRow": 10,
+      "clueCol": 0,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "DOWN",
+      "row": 1,
+      "col": 2,
+      "answer": "РЕВ",
+      "clue": "Крик льва или плач",
+      "clueRow": 0,
+      "clueCol": 2,
+      "arrow": "DOWN",
+      "clueWidth": 2
+    },
+    {
+      "direction": "ACROSS",
+      "row": 13,
+      "col": 15,
+      "answer": "СААМ",
+      "clue": "Лопарь",
+      "clueRow": 13,
+      "clueCol": 14,
+      "arrow": "RIGHT"
+    },
+    {
+      "direction": "ACROSS",
+      "row": 22,
+      "col": 12,
+      "answer": "ЗОВ",
+      "clue": "Призыв",
+      "clueRow": 22,
+      "clueCol": 11,
+      "arrow": "RIGHT"
+    }
+  ]
+}
