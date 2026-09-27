@@ -1,10 +1,15 @@
 {
-  "version": 1,
+  "version": 2,
   "crosswords": [
     { "id": "scan-20260927-130711-000", "file": "crosswords/scan-20260927-130711-000.json" },
     { "id": "scan-20260927-130711-001", "file": "crosswords/scan-20260927-130711-001.json" },
     { "id": "scan-20260927-130711-002", "file": "crosswords/scan-20260927-130711-002.json" },
     { "id": "scan-20260927-130711-003", "file": "crosswords/scan-20260927-130711-003.json" },
-    { "id": "scan-20260927-130711-004", "file": "crosswords/scan-20260927-130711-004.json" }
+    { "id": "scan-20260927-130711-004", "file": "crosswords/scan-20260927-130711-004.json" },
+    { "id": "scan-20260927-163549-000", "file": "crosswords/scan-20260927-163549-000.json" },
+    { "id": "scan-20260927-163549-001", "file": "crosswords/scan-20260927-163549-001.json" },
+    { "id": "scan-20260927-163549-002", "file": "crosswords/scan-20260927-163549-002.json" },
+    { "id": "scan-20260927-163549-003", "file": "crosswords/scan-20260927-163549-003.json" },
+    { "id": "scan-20260927-163549-004", "file": "crosswords/scan-20260927-163549-004.json" }
   ]
 }
