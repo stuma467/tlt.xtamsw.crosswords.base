@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "crosswords": [
     { "id": "scan-20260927-005950-000", "file": "crosswords/scan-20260927-005950-000.json" },
     { "id": "scan-20260927-005950-001", "file": "crosswords/scan-20260927-005950-001.json" },
@@ -105,6 +105,7 @@
     { "id": "scan-20260927-031401-096", "file": "crosswords/scan-20260927-031401-096.json" },
     { "id": "scan-20260927-031401-097", "file": "crosswords/scan-20260927-031401-097.json" },
     { "id": "scan-20260927-031401-098", "file": "crosswords/scan-20260927-031401-098.json" },
-    { "id": "scan-20260927-031401-099", "file": "crosswords/scan-20260927-031401-099.json" }
+    { "id": "scan-20260927-031401-099", "file": "crosswords/scan-20260927-031401-099.json" },
+    { "id": "scan-20260927-032407-000", "file": "crosswords/scan-20260927-032407-000.json" }
   ]
 }
